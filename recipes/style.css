@@ -1,0 +1,11 @@
+img{
+    height: 200px;
+    width: 400px;
+}
+p{
+    text-decoration: underline;
+    border: 10px solid black;
+}
+h3{
+    border: 5px solid black;
+}
